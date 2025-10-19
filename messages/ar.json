@@ -1,0 +1,246 @@
+{
+  "header": {
+    "currency": "ج.م",
+    "viewAll": "عرض الكل",
+    "loading": "جار التحميل...",
+    "topBar": {
+      "shopNow": "تسوق الآن",
+      "helpCenter": "مركز المساعدة",
+      "allProducts": "على كل المنتجات",
+      "categoryOnly": "على قسم محدد"
+    },
+    "midBar": {
+      "search": "بحث"
+    },
+    "botBar": {
+      "searchByCategories": "تسوق بحسب الفئات",
+      "home": "الرئيسية",
+      "shop": "المتجر",
+      "about": "من نحن",
+      "contact": "تواصل معنا",
+      "todayDeal": "عرض اليوم",
+      "menu": "القائمة"
+    }
+  },
+  "search": {
+    "title": "بحث",
+    "placeholder": "ابحث عن المنتجات...",
+    "noResults": "لا توجد نتائج",
+    "resultsFor": "نتائج لـ"
+  },
+  "pagesTitle": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "cart": "سلة التسوق الخاصة بك"
+  },
+  "heroSection": {
+    "weekSale": "العرض الأسبوعى",
+    "shopNow": "تسوق الآن"
+  },
+  "HomeCategories": {
+    "shopByCategories": "تسوق على حسب الفئة",
+    "decription": "استعرض منتجاتنا حسب الأقسام لتصل إلى ما تريد بسهولة",
+    "shopNow": "تسوق الآن",
+    "products": "منتجات"
+  },
+  "productsCard": {
+    "unspecified": "غير محدد",
+    "addToCart": "اضافة الى السلة",
+    "addToWishlist": "اضافة الى المفضلة"
+  },
+  "latestProducts": {
+    "title": "أحدث المنتجات",
+    "allCategories": "جميع الفئات",
+    "noProductsFound": "لا يوجد منتجات",
+    "freshArrivals": "المنتجات الجديدة",
+    "filterByCategory": "تصفية حسب الفئة",
+    "noProductsTitle": "لا يوجد منتجات",
+    "noProductsDescription": "لا يوجد وصف"
+  },
+  "dealOfTheWeek": {
+    "title": "عرض الأسبوع",
+    "addToCart": "اضافة الى السلة",
+    "endEnd": "ينتهى خلال",
+    "youSave": "وفرت",
+    "dontMess": "لا تفوّت هذه العروض الرائعة!",
+    "limitedTime": "فترة محدودة",
+    "noDeals": "لا يوجد عروض"
+  },
+  "footer": {
+    "company": {
+      "name": "شركتك",
+      "description": "نحن شركة متخصصة في التجارة الإلكترونية، نقدم حلولًا ذكية لتطوير المتاجر الرقمية، وتحسين تجربة التسوق عبر الإنترنت، ودعم نمو العلامات التجارية في السوق الرقمي"
+    },
+    "social": {
+      "facebook": "https://facebook.com/yourcompany",
+      "twitter": "https://twitter.com/yourcompany",
+      "instagram": "https://instagram.com/yourcompany",
+      "linkedin": "https://linkedin.com/company/yourcompany"
+    },
+    "quickLinks": {
+      "title": "روابط سريعة"
+    },
+    "services": {
+      "title": "خدماتنا",
+      "webDevelopment": "تطوير المواقع",
+      "mobileApps": "تطبيقات الهاتف المحمول",
+      "consulting": "استشارات تقنية المعلومات",
+      "support": "الدعم الفني"
+    },
+    "contact": {
+      "title": "معلومات التواصل",
+      "address": "القاهرة, مصر",
+      "phone": "+20 104 4346 476",
+      "email": "info@marketellaa.com"
+    },
+    "newsletter": {
+      "title": "اشترك في نشرتنا الإخبارية",
+      "description": "ابق على اطلاع بأحدث أخبارنا وتحديثاتنا وعروضنا الحصرية.",
+      "placeholder": "أدخل بريدك الإلكتروني",
+      "subscribe": "اشتراك"
+    },
+    "bottom": {
+      "rights": "جميع الحقوق محفوظة.",
+      "privacy": "سياسة الخصوصية",
+      "terms": "شروط الخدمة",
+      "cookies": "سياسة ملفات تعريف الارتباط"
+    }
+  },
+  "shop": {
+    "title": "المتجر",
+    "allProducts": "جميع المنتجات",
+    "productFound": "منتج موجود",
+    "productsFound": "منتج موجود",
+    "noProducts": "لم يتم العثور على منتجات",
+    "tryDifferentFilters": "جرب تعديل المرشحات لرؤية المزيد من المنتجات"
+  },
+  "filters": {
+    "title": "المرشحات",
+    "clearAll": "مسح الكل",
+    "apply": "تطبيق المرشحات",
+    "showResults": "إظهار النتائج",
+    "price": {
+      "title": "نطاق الأسعار",
+      "from": "من",
+      "to": "إلى",
+      "currency": "ج.م",
+      "placeholder": "أقل سعر",
+      "placeholderMax": "أعلى سعر",
+      "anyPrice": "أي سعر"
+    },
+    "categories": {
+      "title": "الفئات",
+      "all": "جميع الفئات",
+      "placeholder": "البحث في الفئات...",
+      "showMore": "عرض المزيد",
+      "showLess": "عرض أقل"
+    },
+    "types": {
+      "title": "أنواع المنتجات",
+      "all": "جميع الأنواع",
+      "placeholder": "البحث في الأنواع...",
+      "showMore": "عرض المزيد",
+      "showLess": "عرض أقل"
+    },
+    "availability": {
+      "title": "التوفر",
+      "inStock": "متوفر",
+      "outOfStock": "غير متوفر"
+    },
+    "sortBy": {
+      "title": "ترتيب حسب",
+      "featured": "المميز",
+      "priceLowToHigh": "السعر: من الأقل للأعلى",
+      "priceHighToLow": "السعر: من الأعلى للأقل",
+      "nameAtoZ": "الاسم: أ إلى ي",
+      "nameZtoA": "الاسم: ي إلى أ",
+      "newest": "الأحدث أولاً",
+      "oldest": "الأقدم أولاً"
+    },
+    "results": {
+      "showing": "عرض",
+      "of": "من",
+      "products": "منتج",
+      "noResults": "لا توجد منتجات تطابق المرشحات",
+      "tryDifferent": "جرب تعديل المرشحات"
+    }
+  },
+  "product": {
+    "addToCart": "أضف للسلة",
+    "outOfStock": "غير متوفر",
+    "inStock": "متوفر",
+    "price": "السعر",
+    "sale": "تخفيض",
+    "off": "خصم"
+  },
+  "productDescription": {
+    "productNotFound": "المنتج غير موجود",
+    "productDoesntExist": "المنتج الذي تبحث عنه غير متوفر.",
+    "details": "تفاصيل المنتج",
+    "quantity": "الكمية",
+    "goBack": "العودة",
+    "noImg": "لا توجد صورة متاحة",
+    "outOfStck": "غير متوفر في المخزون",
+    "inStock": "متوفر في المخزون",
+    "available": "متاح",
+    "lowStock": "كمية محدودة",
+    "description": "الوصف",
+    "max": "الحد الأقصى",
+    "productDetails": "تفاصيل المنتج",
+    "category": "الفئة",
+    "type": "النوع",
+    "videos": "الفيديوهات",
+    "addToCart": "اضافة الى السلة"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "total": "الإجمالي",
+    "checkout": "إتمام الشراء",
+    "viewCart": "عرض السلة",
+    "empty": "سلتك فارغة"
+  },
+  "viewCart": {
+    "product": "المنتج",
+    "quantity": "الكمية",
+    "price": "السعر",
+    "total": "الإجمالي",
+    "subtotal": "الإجمالي",
+    "checkout": "إتمام الشراء",
+    "emptyCart": "سلتك فارغة"
+  },
+  "wishlist": {
+    "title": "قائمة المفضلات",
+    "empty": "لا توجد عناصر في قائمة المفضلات الخاصة بك",
+    "addToCart": "أضف إلى السلة",
+    "removeFromWishlist": "إزالة من قائمة المفضلات",
+    "noItems": "لا توجد عناصر في قائمة المفضلات الخاصة بك",
+    "continue": "متابعة التسوق"
+  },
+  "checkout": {
+    "emptyTitle": "السلة فاضية",
+    "emptyDesc": "ضف منتجات علشان تكمل عملية الشراء.",
+    "shippingInfo": "بيانات الشحن",
+    "fullName": "الاسم الكامل",
+    "phone": "رقم الموبايل",
+    "email": "البريد الإلكتروني",
+    "optional": "اختياري",
+    "governorate": "المحافظة",
+    "selectGovernorate": "اختر المحافظة",
+    "address1": "العنوان",
+    "address2": "تكملة العنوان",
+    "notes": "ملاحظات",
+    "placeOrder": "اتمام الطلب",
+    "placing": "جارٍ الإرسال...",
+    "orderSummary": "ملخص الطلب",
+    "subtotal": "الإجمالي الفرعي",
+    "shipping": "الشحن",
+    "total": "الإجمالي"
+  },
+  "productOffer": {
+    "limitedTime": "لفترة محدودة!",
+    "discountText": "خصم حتى {discount} على {productName}",
+    "shopNow": "تسوق الآن"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "header": {
+    "currency": "EGP",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "topBar": {
+      "shopNow": "Shop Now",
+      "helpCenter": "Help Center",
+      "allProducts": "On All Products",
+      "categoryOnly": "On A Category"
+    },
+    "midBar": {
+      "search": "Search"
+    },
+    "botBar": {
+      "searchByCategories": "Shop By Categories",
+      "home": "Home",
+      "shop": "Shop",
+      "about": "About",
+      "contact": "Contact",
+      "todayDeal": "TODAY'S DEAL",
+      "menu": "Menu"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search for products...",
+    "noResults": "No results found",
+    "resultsFor": "Results for"
+  },
+  "pagesTitle": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "cart": "Your Shopping Cart"
+  },
+  "heroSection": {
+    "weekSale": "this week discount",
+    "shopNow": "Shop Now"
+  },
+  "HomeCategories": {
+    "shopByCategories": "Shop By Categories",
+    "decription": "Browse our products by category to quickly find what you’re looking for",
+    "shopNow": "Shop Now",
+    "products": "Products"
+  },
+  "productsCard": {
+    "unspecified": "Not specified",
+    "addToCart": "Add To Cart",
+    "addToWishlist": "Add To Wishlist"
+  },
+  "latestProducts": {
+    "title": "Latest Products",
+    "allCategories": "All Categories",
+    "noProductsFound": "No Products Found",
+    "freshArrivals": "Fresh Arrivals",
+    "filterByCategory": "Filter By Category",
+    "noProductsTitle": "No Products Title",
+    "noProductsDescription": "No Products Description"
+  },
+  "dealOfTheWeek": {
+    "title": "Deal Of The Week",
+    "addToCart": "Add To Cart",
+    "endEnd": "Ends In",
+    "youSave": "You Save",
+    "dontMess": "Don't miss out on these amazing offers!",
+    "limitedTime": "Limited Time",
+    "noDeals": "No Deals"
+  },
+  "footer": {
+    "company": {
+      "description": "We are a specialized e-commerce company providing smart solutions to develop online stores, enhance the shopping experience, and support brand growth in the digital market"
+    },
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "services": {
+      "title": "Our Services",
+      "webDevelopment": "Web Development",
+      "mobileApps": "Mobile Applications",
+      "consulting": "IT Consulting",
+      "support": "Technical Support"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "address": "Cairo, Egypt",
+      "phone": "+20 104 4346 476",
+      "email": "info@yourcompany.com"
+    },
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "description": "Stay updated with our latest news, updates, and exclusive offers.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "bottom": {
+      "rights": "All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "shop": {
+    "title": "Shop",
+    "allProducts": "All Products",
+    "productFound": "product found",
+    "productsFound": "products found",
+    "noProducts": "No products found",
+    "tryDifferentFilters": "Try adjusting your filters to see more products"
+  },
+  "filters": {
+    "title": "Filters",
+    "clearAll": "Clear All",
+    "apply": "Apply Filters",
+    "showResults": "Show Results",
+    "price": {
+      "title": "Price Range",
+      "from": "From",
+      "to": "To",
+      "currency": "L.E",
+      "placeholder": "Min price",
+      "placeholderMax": "Max price",
+      "anyPrice": "Any Price"
+    },
+    "categories": {
+      "title": "Categories",
+      "all": "All Categories",
+      "placeholder": "Search categories...",
+      "showMore": "Show More",
+      "showLess": "Show Less"
+    },
+    "types": {
+      "title": "Product Types",
+      "all": "All Types",
+      "placeholder": "Search types...",
+      "showMore": "Show More",
+      "showLess": "Show Less"
+    },
+    "availability": {
+      "title": "Availability",
+      "inStock": "In Stock",
+      "outOfStock": "Out of Stock"
+    },
+    "sortBy": {
+      "title": "Sort By",
+      "featured": "Featured",
+      "priceLowToHigh": "Price: Low to High",
+      "priceHighToLow": "Price: High to Low",
+      "nameAtoZ": "Name: A to Z",
+      "nameZtoA": "Name: Z to A",
+      "newest": "Newest First",
+      "oldest": "Oldest First"
+    },
+    "results": {
+      "showing": "Showing",
+      "of": "of",
+      "products": "products",
+      "noResults": "No products match your filters",
+      "tryDifferent": "Try adjusting your filters"
+    }
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "price": "Price",
+    "sale": "Sale",
+    "off": "OFF"
+  },
+  "productDescription": {
+    "productNotFound": "Product Not Found",
+    "productDoesntExist": "The product you're looking for doesn't exist.",
+    "details": "Product Details",
+    "quantity": "Quantity",
+    "goBack": "Go Back",
+    "noImg": "No Image Available",
+    "outOfStck": "Out of Stock",
+    "inStock": "In Stock",
+    "available": "Available",
+    "lowStock": "Low Stock",
+    "description": "Description",
+    "max": "Max",
+    "productDetails": "Product Details",
+    "category": "Category",
+    "type": "Type",
+    "videos": "Videos",
+    "addToCart": "Add To Cart"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "total": "Total",
+    "checkout": "Checkout",
+    "viewCart": "View Cart",
+    "empty": "Your cart is empty"
+  },
+  "viewCart": {
+    "product": "Product",
+    "quantity": "Quantity",
+    "price": "Price",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "emptyCart": "Your cart is empty"
+  },
+  "wishlist": {
+    "title": "Your Wishlist",
+    "empty": "Your wishlist is empty",
+    "addToCart": "Add to Cart",
+    "removeFromWishlist": "Remove from Wishlist",
+    "noItems": "No items in your wishlist",
+    "continue": "Continue Shopping"
+  },
+  "checkout": {
+    "emptyTitle": "Your cart is empty",
+    "emptyDesc": "Add some products to proceed to checkout.",
+    "shippingInfo": "Shipping Information",
+    "fullName": "Full name",
+    "phone": "Phone",
+    "email": "Email",
+    "optional": "optional",
+    "governorate": "Governorate",
+    "selectGovernorate": "Select governorate",
+    "address1": "Address",
+    "address2": "Address line 2",
+    "notes": "Notes",
+    "placeOrder": "Place Order",
+    "placing": "Placing...",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total"
+  },
+  "productOffer": {
+    "limitedTime": "LIMITED TIME OFFER ONLY!",
+    "discountText": "Upto {discount} Discount on {productName}",
+    "shopNow": "SHOP NOW"
+  }
+}
