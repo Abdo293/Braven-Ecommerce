@@ -30,7 +30,7 @@ export const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <Link
-                href={"https://web.facebook.com/profile.php?id=61569051909885"}
+                href={"https://web.facebook.com/profile.php?id=61582618137231"}
                 className="text-gray-400 hover:text-white transition-colors duration-200"
                 aria-label="Facebook"
               >
@@ -57,9 +57,7 @@ export const Footer = () => {
                 </svg>
               </Link>
               <Link
-                href={
-                  "https://www.instagram.com/marketellaa/?fbclid=IwZXh0bgNhZW0CMTAAAR0XxyHkjKe9-uB3GV-33m8KJ1JVOx7HQP7ervUMP0pvYCNRMMqfraANx9c_aem_6Gvei7oh-wAqzp2HLIkezQ"
-                }
+                href={"#"}
                 className="text-gray-400 hover:text-white transition-colors duration-200"
                 aria-label="Instagram"
               >
@@ -116,7 +114,7 @@ export const Footer = () => {
         {/* Footer Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-gray-400 text-sm">
-            © {currentYear} Marketellaa. {t("bottom.rights")}
+            © {currentYear} Braven. {t("bottom.rights")}
           </p>
           <div className="flex flex-wrap gap-6">
             <Link
