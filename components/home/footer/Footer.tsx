@@ -24,7 +24,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-white">Queen</h3>
+            <h3 className="text-xl font-bold text-white">Braven</h3>
             <p className="text-gray-300 text-sm leading-relaxed">
               {t("company.description")}
             </p>
